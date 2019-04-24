@@ -15,4 +15,4 @@ Let's say for example, you have provided 3 *(Bank Deposit, Pay on Delivery and O
 8. Save.
 9. And that's it!!!
 
-If you have any questions, [Shoot me an email!](mailto:sammyskills@gmail.com)
+If you have any questions or want to say "hi", [Shoot me an email!](mailto:sammyskills@gmail.com)
