@@ -5,7 +5,7 @@
  * @package Opencart 3
  * @category Order Total Extension
  * @author Samuel Asor
- * @link https://sammyskills.github.io
+ * @link https://github.com/sammyskills/opencart-payment-discount
  */
 class ControllerExtensionTotalPaymentDiscount extends Controller
 {
