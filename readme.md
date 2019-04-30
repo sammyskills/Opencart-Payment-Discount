@@ -23,3 +23,5 @@ Let's say for example, you have provided 3 *(Bank Deposit, Pay on Delivery and O
 ![Frontend View 2](images/screen3.png)
 
 If you have any questions or want to say "hi", [Shoot me an email!](mailto:sammyskills@gmail.com)
+
+__PS:__ This plugin is also available in the Opencart Extensions Marketplace. You can find it [here](https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=36715&filter_category_id=6&filter_license=0).
