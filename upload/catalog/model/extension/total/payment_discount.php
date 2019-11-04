@@ -18,7 +18,7 @@ class ModelExtensionTotalPaymentDiscount extends Controller
 				$total['totals'][] = array(
 					'code' => 'payment_discount',
 					'title' => $desc_text,
-					'value' => (($discount / 100) * $total['total']),
+					'value' => '-' . (($discount / 100) * $total['total']),
 					'sort_order' => $sort_order,
 				);
 
