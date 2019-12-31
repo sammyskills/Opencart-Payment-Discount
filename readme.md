@@ -4,7 +4,20 @@ This extension can be used to apply a certain discount to customers who choose t
 
 Let's say for example, you have provided 3 *(Bank Deposit, Pay on Delivery and Online Payment)* payment options for your customers, and your want to encourage your customers to pay online, you can simple add a discount for payments made via the online payment option.
 
-### Installation Instruction
+### Installation Instruction 
+_Automatic_
+1. Download the file `payment_discount.ocmod.zip`.
+2. Go to `Extensions>>Installer`
+3. Upload the file
+4. Rebuild the modifications cache. Access your Opencart Admin and go to Extensions > Modifications and click on the blue Refresh button (top right corner).
+5. Go to `Extensions>>Extensions` and choose **Order Totals** as the extension type.
+6. Install the __Payment Discount (Lite)__ extension.
+7. Click on `Edit`.
+8. Enable the extension, set the percentage discount and text description.
+9. Save.
+10. And that's it!!!
+
+_Manual_
 1. Clone or download this repo.
 2. Upload the files inside the `upload` folder using __FTP__ or any other means you know.
 3. Go to your extensions.
